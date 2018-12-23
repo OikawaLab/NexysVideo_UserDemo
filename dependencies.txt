@@ -1,0 +1,14 @@
+IP Core:
+    axi_freq_cnt_v1_0
+    d_axi_i2s_audio_v2_0
+    d_sd_demo_v1_0
+    dpti_basic_sync_performance_test_v1_0
+    dvi2rgb_v1_4
+    ps2_mouse_overlay_v1_1
+    reset_bridge_v1_0
+    rgb2dpvid_v1_0
+    rgb2dvi_v1_2
+    vid_io_mux_v1_1
+
+Interface:
+    tmds_v1_0
